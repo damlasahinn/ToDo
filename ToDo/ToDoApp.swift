@@ -1,0 +1,17 @@
+//
+//  ToDoApp.swift
+//  ToDo
+//
+//  Created by Damla Sahin on 29.10.2026.
+//
+
+import SwiftUI
+
+@main
+struct ToDoApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
